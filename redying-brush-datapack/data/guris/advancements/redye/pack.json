@@ -1,0 +1,30 @@
+{
+    "display": {
+        "title": "Redying Brush v0.1",
+        "description": 
+            [
+                {
+                    "text": "• Recolour coloured components using brush and dyes."
+                },
+                {
+                    "text": "\n\n• Hold dyes in mainhand, a brush in offhand and use the brush on wools, glasses, and even planks.",
+                    "color": "yellow"
+                },
+                {
+                    "text": "\n\n• Check out for updates on https://modrinth.com/user/lsk21kr",
+                    "color": "blue"
+                }
+            ],
+        "icon": {
+            "item": "minecraft:brush"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:guris",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
