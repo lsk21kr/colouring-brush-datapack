@@ -3,7 +3,7 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 
 ## Dev Status
 * **In Progress**🟨: Implementing features. Not working properly.
-* **Version**: v0.5
+* **Version**: v0.5.1
 
 ## Compatibility
 * 1.20.x
@@ -91,3 +91,4 @@ Use commands or click the menu on chat to toggle the options for the following f
 
 ## Version history
 * v0.5: PoC release for recolouring/decolouring of basic coloured block
+* v0.5.1: glass panes are now normally redyed
