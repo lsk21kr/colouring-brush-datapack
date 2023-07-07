@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:green_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:green_wool",
+        "required": false
+      }
+    ]
+  }
+  

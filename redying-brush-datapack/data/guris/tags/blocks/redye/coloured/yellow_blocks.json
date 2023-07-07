@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:yellow_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:yellow_wool",
+        "required": false
+      }
+    ]
+  }
+  

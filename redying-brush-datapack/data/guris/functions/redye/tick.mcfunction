@@ -1,3 +1,3 @@
 # context: tick.json
-## main function. iterates every tick.
+## reset redye status every tick
 scoreboard players reset @a guris.redye

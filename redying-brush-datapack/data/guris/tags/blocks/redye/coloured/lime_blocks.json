@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:lime_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:lime_wool",
+        "required": false
+      }
+    ]
+  }
+  

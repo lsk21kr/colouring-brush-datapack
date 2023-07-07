@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:red_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:red_wool",
+        "required": false
+      }
+    ]
+  }
+  

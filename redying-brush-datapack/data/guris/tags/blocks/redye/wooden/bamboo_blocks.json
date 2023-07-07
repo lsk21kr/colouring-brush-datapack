@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:bamboo_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:bamboo_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

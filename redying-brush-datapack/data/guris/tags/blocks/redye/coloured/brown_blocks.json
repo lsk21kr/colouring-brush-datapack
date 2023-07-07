@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:brown_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:brown_wool",
+        "required": false
+      }
+    ]
+  }
+  

@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:magenta_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:magenta_wool",
+        "required": false
+      }
+    ]
+  }
+  

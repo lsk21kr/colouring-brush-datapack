@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:cyan_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:cyan_wool",
+        "required": false
+      }
+    ]
+  }
+  

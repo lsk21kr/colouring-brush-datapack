@@ -57,12 +57,14 @@ Hold green dyes in mainhand, a brush in offhand and use the brush on sand-relate
 * Stone brick walls
 
 ### Decolouring
-Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you use opposite hand to hold brush when in right-handed mode.
+Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you use opposite hand to hold brush when in right-handed mode. (*optional)
 * Candles
+* Cobblestone-related blocks
 * Glasses
 * Sand-related blocks
 * Shulker boxes
 * Stained glasses
+* Stone-brick-related blocks
 * Terracotta
 
 ### Balancing Options
@@ -74,9 +76,10 @@ Use commands or click the menu on chat to toggle the options for the following f
 * Right-handed mode (off)
 * Maintain banner pattern(on)
 * Nether brick fences (off)
+* Chiselled sandstone (off)
 * Wooden blocks (on)
-* Wooden doors (on)
-* Wooden trapdoors (on)
+  * Wooden doors (on)
+  * Wooden trapdoors (on)
 
 ## Planned Features (Soon™)
 * Stone-related items (concerning balances and plausibility)

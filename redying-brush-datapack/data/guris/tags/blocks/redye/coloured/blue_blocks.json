@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:blue_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:blue_wool",
+        "required": false
+      }
+    ]
+  }
+  

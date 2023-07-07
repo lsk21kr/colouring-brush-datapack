@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:cherry_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:cherry_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

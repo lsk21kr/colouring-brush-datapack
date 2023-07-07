@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:jungle_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:jungle_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

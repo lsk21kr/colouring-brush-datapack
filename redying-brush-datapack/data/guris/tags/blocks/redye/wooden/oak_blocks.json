@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:oak_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:oak_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

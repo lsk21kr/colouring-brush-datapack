@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:orange_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:orange_wool",
+        "required": false
+      }
+    ]
+  }
+  

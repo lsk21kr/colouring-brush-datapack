@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:purple_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:purple_wool",
+        "required": false
+      }
+    ]
+  }
+  

@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:birch_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:birch_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

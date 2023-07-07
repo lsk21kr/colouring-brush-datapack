@@ -1,0 +1,61 @@
+{
+    "values": [
+      {
+        "id": "minecraft:black_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_bed",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_candle",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_candle_cake",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_carpet",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_concrete",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_concrete_powder",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_glazed_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_shulker_box",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_stained_glass",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_stained_glass_pane",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_terracotta",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_wall_banner",
+        "required": false
+      },
+      {
+        "id": "minecraft:black_wool",
+        "required": false
+      }
+    ]
+  }
+  

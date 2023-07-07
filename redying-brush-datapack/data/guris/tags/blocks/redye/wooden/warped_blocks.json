@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:warped_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:warped_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

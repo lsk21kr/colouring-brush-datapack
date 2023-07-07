@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:mangrove_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:mangrove_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  

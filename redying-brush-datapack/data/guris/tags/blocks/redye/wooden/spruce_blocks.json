@@ -1,0 +1,57 @@
+{
+    "values": [
+      {
+        "id": "minecraft:spruce_planks",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_stairs",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_slab",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_fence",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_fence_gate",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_door",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_trapdoor",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_pressure_plate",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_button",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_wall_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_hanging_sign",
+        "required": false
+      },
+      {
+        "id": "minecraft:spruce_wall_hanging_sign",
+        "required": false
+      }
+    ]
+  }
+  
