@@ -1,4 +1,4 @@
-# Redyomg Brush
+# Redying Brush
 Redying Brush is a minecraft data pack that lets you recolour coloured components using brush and dyes.
 
 ## Dev Status
@@ -7,11 +7,11 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 
 ## Compatibility
 * 1.20.x
-* Multiplayer friendly (maybe?)
+* Multiplayer friendly
 
 ## Features
 ### Recolouring coloured blocks
-Hold dyes in mainhand, a brush in offhand and use the brush on wools, glasses, and more. You can redye following blocks.
+Hold a brush in mainhand and dyes in offhand (opposite when right-handed mode) and use the brush on wools, glasses, and more. You can redye following blocks.
 * Banners
 * Candles
 * Concretes, concrete powders
@@ -57,7 +57,7 @@ Hold green dyes in mainhand, a brush in offhand and use the brush on sand-relate
 * Stone brick walls
 
 ### Decolouring
-Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you use opposite hand to hold brush in this case.
+Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you use opposite hand to hold brush when in right-handed mode.
 * Candles
 * Glasses
 * Sand-related blocks
@@ -66,11 +66,12 @@ Hold a brush in mainhand, water bottle or water bucket in offhand, and use the b
 * Terracotta
 
 ### Balancing Options
-Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:redye/option to evoke menu)
+Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:redye/settings to evoke menu)
 * Consume dye (on)
 * Consume water bottle (on)
 * Consume water bucket (off)
 * Damage brush (on)
+* Right-handed mode (off)
 * Maintain banner pattern(on)
 * Nether brick fences (off)
 * Wooden blocks (on)
