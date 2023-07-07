@@ -14,3 +14,6 @@
     * Glasses, glass panes
     * Shulker boxes
     * Terracotta
+## 0.5.1 (2023-07-08)
+* Fixed
+  * Glass panes are now normally redyed. (was always yellow when redyed)
