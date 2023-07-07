@@ -3,7 +3,7 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 
 ## Dev Status
 * **In Progress**🟨: Implementing features. Not working properly.
-* **Version**: too be released
+* **Version**: v0.5
 
 ## Compatibility
 * 1.20.x
@@ -20,7 +20,7 @@ Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mod
 * Terracotta, glazed terracotta
 * Wools, beds, and carpets
 
-### Recolouring wooden blocks
+### Recolouring wooden blocks (to be implemented)
 Same mechanism as above. But cannot redye in lime, green, light blue, blue, and purple. Using purple dye, you can redye wooden fences into nether brick fences depending on the settings.
 * Planks
 * Stairs
@@ -33,7 +33,7 @@ Same mechanism as above. But cannot redye in lime, green, light blue, blue, and 
 * Buttons
 * Signs, wall signs, hanging signs, and wall hanging signs
 
-### Colouring sand into red sand
+### Colouring sand into red sand (to be implemented)
 Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-related blocks. You can also dye chiselled sandstone depending on the settings.
 * Sand
 * Sandstones
@@ -47,7 +47,7 @@ Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-relat
 * Cut sandstone slabs
 * Chiselled sandstone (*optional: off)
 
-### Colouring cobblestones and stonebricks into mossy variants
+### Colouring cobblestones and stonebricks into mossy variants (to be implemented)
 Hold green dyes in mainhand, a brush in offhand and use the brush on sand-related blocks.
 * Cobblestone
 * Cobblestone stairs
@@ -68,7 +68,7 @@ Hold a brush in mainhand, water bottle or water bucket in offhand, and use the b
 * Stone-brick-related blocks
 * Terracotta
 
-### Balancing Options
+### Balancing Options (to be implemented)
 Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:redye/settings to evoke menu)
 * Both-handed mode (on)
 * Consume dye (on)
