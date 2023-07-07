@@ -11,7 +11,7 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 
 ## Features
 ### Recolouring coloured blocks
-Hold a brush in mainhand and dyes in offhand (opposite when right-handed mode) and use the brush on wools, glasses, and more. You can redye following blocks.
+Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mode) and use the brush on wools, glasses, and more. You can redye following blocks.
 * Banners
 * Candles
 * Concretes, concrete powders
@@ -27,13 +27,13 @@ Same mechanism as above. But cannot redye in lime, green, light blue, blue, and 
 * Slabs
 * Fences
 * Fence gates
-* Doors
-* Trap doors
+* Doors (*optional: off)
+* Trap doors (*optional: off)
 * Pressure plates
 * Buttons
 
 ### Colouring sand into red sand
-Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-related blocks. Note that you cannot dye chiselled sandstone as they have different engravings.
+Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-related blocks. You can also dye chiselled sandstone depending on the settings.
 * Sand
 * Sandstones
 * Sandstone stairs
@@ -44,6 +44,7 @@ Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-relat
 * Smooth sandstone slabs
 * Cut sandstones
 * Cut sandstone slabs
+* Chiselled sandstone (*optional: off)
 
 ### Colouring cobblestones and stonebricks into mossy variants
 Hold green dyes in mainhand, a brush in offhand and use the brush on sand-related blocks.
@@ -56,11 +57,12 @@ Hold green dyes in mainhand, a brush in offhand and use the brush on sand-relate
 * Stone brick slabs
 * Stone brick walls
 
-### Decolouring
-Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you use opposite hand to hold brush when in right-handed mode. (*optional)
+### Decolouring blocks
+Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you cannot use offhand even when in both-handed mode.
 * Candles
 * Cobblestone-related blocks
 * Glasses
+* Nether brick fence (*optional)
 * Sand-related blocks
 * Shulker boxes
 * Stained glasses
@@ -69,20 +71,20 @@ Hold a brush in mainhand, water bottle or water bucket in offhand, and use the b
 
 ### Balancing Options
 Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:redye/settings to evoke menu)
+* Both-handed mode (on)
 * Consume dye (on)
 * Consume water bottle (on)
 * Consume water bucket (off)
 * Damage brush (on)
-* Right-handed mode (off)
-* Maintain banner pattern(on)
-* Nether brick fences (off)
+* Maintain banner pattern (on)
 * Chiselled sandstone (off)
+* Nether brick fences (off)
 * Wooden blocks (on)
-  * Wooden doors (on)
-  * Wooden trapdoors (on)
+  * Wooden doors (off)
+  * Wooden trapdoors (off)
 
 ## Planned Features (Soon™)
-* Stone-related items (concerning balances and plausibility)
+* Other stone blocks, stairs, slabs, etc (concerning balances and plausibility)
 
 ## References
 * [PuckiSilver's Multitool](https://www.planetminecraft.com/data-pack/multitool-every-tool-in-one-item/) data pack for targeted block ray tracing
