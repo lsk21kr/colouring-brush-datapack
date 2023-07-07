@@ -125,7 +125,7 @@
         "required": false
       },
       {
-        "id": "#guris:redye/decolored_blocks",
+        "id": "#guris:redye/decoloured_blocks",
         "required": false
       }
     ]

@@ -12,8 +12,8 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 ## Features
 ### Recolouring coloured blocks
 Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mode) and use the brush on wools, glasses, and more. You can redye following blocks.
-* Banners
-* Candles
+* Banners, wall banners
+* Candles, candle cakes
 * Concretes, concrete powders
 * Glasses, stained glasses
 * Shulker boxes
@@ -31,6 +31,7 @@ Same mechanism as above. But cannot redye in lime, green, light blue, blue, and 
 * Trap doors (*optional: off)
 * Pressure plates
 * Buttons
+* Signs, wall signs, hanging signs, and wall hanging signs
 
 ### Colouring sand into red sand
 Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-related blocks. You can also dye chiselled sandstone depending on the settings.
@@ -59,13 +60,11 @@ Hold green dyes in mainhand, a brush in offhand and use the brush on sand-relate
 
 ### Decolouring blocks
 Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you cannot use offhand even when in both-handed mode.
-* Candles
+* Candles, candle cakes
 * Cobblestone-related blocks
-* Glasses
-* Nether brick fence (*optional)
+* Glasses, glass panes
 * Sand-related blocks
 * Shulker boxes
-* Stained glasses
 * Stone-brick-related blocks
 * Terracotta
 
@@ -76,12 +75,12 @@ Use commands or click the menu on chat to toggle the options for the following f
 * Consume water bottle (on)
 * Consume water bucket (off)
 * Damage brush (on)
+* Green jungle planks (off)
 * Maintain banner pattern (on)
 * Chiselled sandstone (off)
 * Nether brick fences (off)
-* Wooden blocks (on)
-  * Wooden doors (off)
-  * Wooden trapdoors (off)
+* Wooden doors (off)
+* Wooden trapdoors (off)
 
 ## Planned Features (Soon™)
 * Other stone blocks, stairs, slabs, etc (concerning balances and plausibility)
@@ -91,4 +90,4 @@ Use commands or click the menu on chat to toggle the options for the following f
 * [Moggla's Timber](https://www.planetminecraft.com/data-pack/timber-datapack/) data pack for settings menu design
 
 ## Version history
-* No releases
+* v0.5: PoC release for recolouring/decolouring of basic coloured block

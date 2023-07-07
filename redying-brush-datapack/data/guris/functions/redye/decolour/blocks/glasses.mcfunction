@@ -3,4 +3,4 @@
 function guris:redye/ray_escape
 
 # test code
-execute unless block ~ ~ ~ minecraft:glass run setblock ~ ~ ~ minecraft:glass replace
+execute run setblock ~ ~ ~ minecraft:glass replace

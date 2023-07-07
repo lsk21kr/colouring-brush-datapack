@@ -1,14 +1,16 @@
 # Version History
-## \<version name\> (\<release date\>)
+## 0.5 (2023-07-08)
 * Added
-  * added faature 1
-  * added feature 2
-  * added feature 3
-* Modified
-  * modified feature 1
-  * modified feature 2
-  * modified feature 3
-* Removed
-  * removed feature 1
-  * removed feature 2
-  * removed feature 3
+  * Recolouring of following blocks
+    * Banners, wall banners
+    * Candles, candle cakes
+    * Concretes, concrete powders
+    * Glasses, stained glasses
+    * Shulker boxes
+    * Terracotta, glazed terracotta
+    * Wools, beds, and carpets
+  * Decolouring of following blocks
+    * Candles, candle cakes
+    * Glasses, glass panes
+    * Shulker boxes
+    * Terracotta
