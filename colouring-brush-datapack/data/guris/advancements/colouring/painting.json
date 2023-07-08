@@ -1,0 +1,53 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:any_of",
+            "terms": [
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "type": "minecraft:player",
+                  "equipment": {
+                    "mainhand": {
+                      "items": [
+                        "minecraft:brush"
+                      ]
+                    },
+                    "offhand": {
+                      "tag": "guris:colouring/dyes"
+                    }
+                  }
+                }
+              },
+              {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "type": "minecraft:player",
+                  "equipment": {
+                    "mainhand": {
+                      "tag": "guris:colouring/dyes"
+                    },
+                    "offhand": {
+                      "items": [
+                        "minecraft:brush"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "guris:colouring/paint/apply"
+  }
+}

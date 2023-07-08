@@ -1,5 +1,5 @@
-# Redying Brush
-Redying Brush is a minecraft data pack that lets you recolour coloured components using brush and dyes.
+# Colouring Brush
+Colouring Brush is a minecraft data pack that lets you recolour coloured components using brush and dyes.
 
 ## Dev Status
 * **In Progress**🟨: Implementing features. Not working properly.
@@ -10,18 +10,25 @@ Redying Brush is a minecraft data pack that lets you recolour coloured component
 * Multiplayer friendly
 
 ## Features
+### Colouring decoloured blocks
+Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mode) and use the brush on glasses, terracotta, and more. You can colour following blocks.
+* Candles, candle cakes
+* Glasses, glass panes
+* Shulker boxes
+* Terracotta
+
 ### Recolouring coloured blocks
-Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mode) and use the brush on wools, glasses, and more. You can redye following blocks.
+Same mechanism as above. You can recolour following blocks.
 * Banners, wall banners
 * Candles, candle cakes
 * Concretes, concrete powders
-* Glasses, stained glasses
+* Glasses, glass panes
 * Shulker boxes
 * Terracotta, glazed terracotta
 * Wools, beds, and carpets
 
 ### Recolouring wooden blocks (to be implemented)
-Same mechanism as above. But cannot redye in lime, green, light blue, blue, and purple. Using purple dye, you can redye wooden fences into nether brick fences depending on the settings.
+Same mechanism as above. But cannot recolour in lime, green, light blue, blue, and purple. (Mojang plz add these woods) Using purple dye, you can recolour wooden fences into nether brick fences depending on the settings.
 * Planks
 * Stairs
 * Slabs
@@ -69,7 +76,7 @@ Hold a brush in mainhand, water bottle or water bucket in offhand, and use the b
 * Terracotta
 
 ### Balancing Options (to be implemented)
-Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:redye/settings to evoke menu)
+Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:colouring/settings to evoke menu)
 * Both-handed mode (on)
 * Consume dye (on)
 * Consume water bottle (on)

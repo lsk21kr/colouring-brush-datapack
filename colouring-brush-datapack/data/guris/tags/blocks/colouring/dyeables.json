@@ -1,0 +1,133 @@
+{
+    "values": [
+      {
+        "id": "#guris:colouring/coloured/black_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/blue_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/brown_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/cyan_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/gray_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/green_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/light_blue_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/light_gray_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/lime_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/magenta_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/orange_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/pink_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/purple_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/red_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/white_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/coloured/yellow_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/acacia_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/bamboo_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/birch_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/cherry_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/crimson_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/dark_oak_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/jungle_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/mangrove_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/oak_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/spruce_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/wooden/warped_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/sand_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/red_sand_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/stone_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/mossy_stone_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/decoloured_blocks",
+        "required": false
+      }
+    ]
+  }
+  
