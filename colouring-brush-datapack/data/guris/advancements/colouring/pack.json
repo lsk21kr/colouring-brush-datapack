@@ -1,13 +1,13 @@
 {
     "display": {
-        "title": "Redying Brush v0.1",
+        "title": "Colouring Brush v0.6",
         "description": 
             [
                 {
-                    "text": "• Recolour coloured components using brush and dyes."
+                    "text": "• Give, change, remove the colour of various coloured blocks using brush and dyes."
                 },
                 {
-                    "text": "\n\n• Hold dyes in mainhand, a brush in offhand and use the brush on wools, glasses, and even planks.",
+                    "text": "\n\n• Hold a brush in mainhand, dyes/water in offhand and use the brush on wools, glasses, and even planks.",
                     "color": "yellow"
                 },
                 {

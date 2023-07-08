@@ -1,9 +1,9 @@
 # Colouring Brush
-Colouring Brush is a minecraft data pack that lets you recolour coloured components using brush and dyes.
+Colouring Brush is a minecraft data pack that lets you give, change, remove the colour of various coloured blocks using brush and dyes.
 
 ## Dev Status
 * **In Progress**🟨: Implementing features. Not working properly.
-* **Version**: v0.5.1
+* **Version**: v0.6
 
 ## Compatibility
 * 1.20.x
@@ -27,7 +27,7 @@ Same mechanism as above. You can recolour following blocks.
 * Terracotta, glazed terracotta
 * Wools, beds, and carpets
 
-### Recolouring wooden blocks (to be implemented)
+### Recolouring wooden blocks
 Same mechanism as above. But cannot recolour in lime, green, light blue, blue, and purple. (Mojang plz add these woods) Using purple dye, you can recolour wooden fences into nether brick fences depending on the settings.
 * Planks
 * Stairs
@@ -99,3 +99,4 @@ Use commands or click the menu on chat to toggle the options for the following f
 ## Version history
 * v0.5: PoC release for recolouring/decolouring of basic coloured block
 * v0.5.1: glass panes are now normally redyed
+* v0.6: support for wooden blocks added

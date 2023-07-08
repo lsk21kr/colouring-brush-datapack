@@ -5,21 +5,39 @@
 execute unless score #ray_dist guris.colouring matches 1.. run scoreboard players set #ray_dist guris.colouring 24
 scoreboard players remove #ray_dist guris.colouring 1
 
-# find if current block is dyeable block
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/banners run function guris:colouring/paint/blocks/banners
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:beds run function guris:colouring/paint/blocks/beds
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:candle_cakes run function guris:colouring/paint/blocks/candle_cakes
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:candles run function guris:colouring/paint/blocks/candles
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wool_carpets run function guris:colouring/paint/blocks/carpets
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/concrete_powders run function guris:colouring/paint/blocks/concrete_powders
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/concretes run function guris:colouring/paint/blocks/concretes
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glass_panes run function guris:colouring/paint/blocks/glass_panes
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glasses run function guris:colouring/paint/blocks/glasses
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:shulker_boxes run function guris:colouring/paint/blocks/shulker_boxes
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glazed_terracotta run function guris:colouring/paint/blocks/glazed_terracotta
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:terracotta run function guris:colouring/paint/blocks/terracotta
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/wall_banners run function guris:colouring/paint/blocks/wall_banners
-execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wool run function guris:colouring/paint/blocks/wools
+# find if current block is coloured block
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/banners run function guris:colouring/paint/coloured/banners
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:beds run function guris:colouring/paint/coloured/beds
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:candle_cakes run function guris:colouring/paint/coloured/candle_cakes
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:candles run function guris:colouring/paint/coloured/candles
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wool_carpets run function guris:colouring/paint/coloured/carpets
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/concrete_powders run function guris:colouring/paint/coloured/concrete_powders
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/concretes run function guris:colouring/paint/coloured/concretes
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glass_panes run function guris:colouring/paint/coloured/glass_panes
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glasses run function guris:colouring/paint/coloured/glasses
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:shulker_boxes run function guris:colouring/paint/coloured/shulker_boxes
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/glazed_terracotta run function guris:colouring/paint/coloured/glazed_terracotta
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:terracotta run function guris:colouring/paint/coloured/terracotta
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #guris:colouring/blocks/wall_banners run function guris:colouring/paint/coloured/wall_banners
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wool run function guris:colouring/paint/coloured/wools
+
+# find if current block is wooden block
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_buttons run function guris:colouring/paint/wooden/buttons
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_doors run function guris:colouring/paint/wooden/doors
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:fence_gates run function guris:colouring/paint/wooden/fence_gates
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_fences run function guris:colouring/paint/wooden/fences
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:ceiling_hanging_signs run function guris:colouring/paint/wooden/hanging_signs
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:planks run function guris:colouring/paint/wooden/planks
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_pressure_plates run function guris:colouring/paint/wooden/pressure_plates
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:standing_signs run function guris:colouring/paint/wooden/signs
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_slabs run function guris:colouring/paint/wooden/slabs
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_stairs run function guris:colouring/paint/wooden/stairs
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wooden_trapdoors run function guris:colouring/paint/wooden/trapdoors
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wall_hanging_signs run function guris:colouring/paint/wooden/wall_hanging_signs
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ #minecraft:wall_signs run function guris:colouring/paint/wooden/wall_signs
+
+# optional
+execute unless score @s guris.colouring matches 1 if block ~ ~ ~ minecraft:nether_brick_fence run function guris:colouring/paint/wooden/fences
 
 # loop for ray casting
 execute if score #ray_dist guris.colouring matches 1.. if block ~ ~ ~ minecraft:air unless block ~ ~ ~ #guris:colouring/dyeables positioned ^ ^ ^0.2 run function guris:colouring/paint/find_block
