@@ -13,3 +13,5 @@ execute if block ~ ~ ~ #minecraft:wall_hanging_signs[waterlogged=true,facing=sou
 execute if block ~ ~ ~ #minecraft:wall_hanging_signs[waterlogged=true,facing=north] run setblock ~ ~ ~ minecraft:warped_wall_hanging_sign[waterlogged=true,facing=north] replace
 
 function guris:colouring/data/signs_load
+
+function guris:colouring/effect/cyan

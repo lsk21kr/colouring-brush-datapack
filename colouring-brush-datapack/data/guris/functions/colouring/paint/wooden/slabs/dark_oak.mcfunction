@@ -7,3 +7,5 @@ execute if block ~ ~ ~ #minecraft:wooden_slabs[waterlogged=false,type=double] ru
 execute if block ~ ~ ~ #minecraft:wooden_slabs[waterlogged=true,type=bottom] run setblock ~ ~ ~ minecraft:dark_oak_slab[waterlogged=false,type=bottom] replace
 execute if block ~ ~ ~ #minecraft:wooden_slabs[waterlogged=true,type=top] run setblock ~ ~ ~ minecraft:dark_oak_slab[waterlogged=false,type=top] replace
 execute if block ~ ~ ~ #minecraft:wooden_slabs[waterlogged=true,type=double] run setblock ~ ~ ~ minecraft:dark_oak_slab[waterlogged=false,type=double] replace
+
+function guris:colouring/effect/black

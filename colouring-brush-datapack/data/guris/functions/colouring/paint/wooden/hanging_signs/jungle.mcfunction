@@ -72,3 +72,6 @@ execute if block ~ ~ ~ #minecraft:ceiling_hanging_signs[waterlogged=true,attache
 execute if block ~ ~ ~ #minecraft:ceiling_hanging_signs[waterlogged=true,attached=true,rotation=15] run setblock ~ ~ ~ minecraft:jungle_hanging_sign[waterlogged=true,attached=true,rotation=15] replace
 
 function guris:colouring/data/signs_load
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

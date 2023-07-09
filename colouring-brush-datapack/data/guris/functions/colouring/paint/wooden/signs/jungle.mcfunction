@@ -37,3 +37,6 @@ execute if block ~ ~ ~ #minecraft:standing_signs[waterlogged=true,rotation=14] r
 execute if block ~ ~ ~ #minecraft:standing_signs[waterlogged=true,rotation=15] run setblock ~ ~ ~ minecraft:jungle_sign[waterlogged=true,rotation=15] replace
 
 function guris:colouring/data/signs_load
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

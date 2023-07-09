@@ -39,3 +39,6 @@ execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,ha
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=west] run setblock ~ ~ ~ minecraft:jungle_trapdoor[waterlogged=true,open=true,half=top,facing=west] replace
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=south] run setblock ~ ~ ~ minecraft:jungle_trapdoor[waterlogged=true,open=true,half=top,facing=south] replace
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=north] run setblock ~ ~ ~ minecraft:jungle_trapdoor[waterlogged=true,open=true,half=top,facing=north] replace
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

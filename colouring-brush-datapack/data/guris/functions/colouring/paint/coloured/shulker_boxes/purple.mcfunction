@@ -10,3 +10,5 @@ execute if block ~ ~ ~ #minecraft:shulker_boxes[facing=up] run setblock ~ ~ ~ mi
 execute if block ~ ~ ~ #minecraft:shulker_boxes[facing=down] run setblock ~ ~ ~ minecraft:purple_shulker_box[facing=down] replace
 
 function guris:colouring/data/shulker_boxes_load
+
+function guris:colouring/effect/purple

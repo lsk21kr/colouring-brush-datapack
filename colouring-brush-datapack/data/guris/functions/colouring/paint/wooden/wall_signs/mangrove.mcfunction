@@ -13,3 +13,5 @@ execute if block ~ ~ ~ #minecraft:wall_signs[waterlogged=true,facing=south] run 
 execute if block ~ ~ ~ #minecraft:wall_signs[waterlogged=true,facing=north] run setblock ~ ~ ~ minecraft:mangrove_wall_sign[waterlogged=true,facing=north] replace
 
 function guris:colouring/data/signs_load
+
+function guris:colouring/effect/red

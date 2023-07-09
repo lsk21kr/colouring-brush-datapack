@@ -29,7 +29,11 @@
         "required": false
       },
       {
-        "id": "#guris:colouring/stone_blocks",
+        "id": "#guris:colouring/stone_brick_blocks",
+        "required": false
+      },
+      {
+        "id": "#guris:colouring/cobblestone_blocks",
         "required": false
       }
     ]

@@ -14,3 +14,6 @@ execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=east] run setb
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=west] run setblock ~ ~ ~ minecraft:jungle_button[face=wall,facing=west] replace
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=south] run setblock ~ ~ ~ minecraft:jungle_button[face=wall,facing=south] replace
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=north] run setblock ~ ~ ~ minecraft:jungle_button[face=wall,facing=north] replace
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

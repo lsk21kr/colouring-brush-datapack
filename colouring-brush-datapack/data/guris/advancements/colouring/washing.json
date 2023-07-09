@@ -50,6 +50,7 @@
     }
   },
   "rewards": {
-    "function": "guris:colouring/decolour/apply"
+    "function": "guris:colouring/decolour/use_brush"
   }
 }
+  

@@ -4,3 +4,5 @@ function guris:colouring/ray_escape
 
 # test code
 execute run setblock ~ ~ ~ minecraft:glass replace
+
+function guris:colouring/effect/decolour

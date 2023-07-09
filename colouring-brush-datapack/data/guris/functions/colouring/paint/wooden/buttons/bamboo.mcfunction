@@ -14,3 +14,5 @@ execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=east] run setb
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=west] run setblock ~ ~ ~ minecraft:bamboo_button[face=wall,facing=west] replace
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=south] run setblock ~ ~ ~ minecraft:bamboo_button[face=wall,facing=south] replace
 execute if block ~ ~ ~ #minecraft:wooden_buttons[face=wall,facing=north] run setblock ~ ~ ~ minecraft:bamboo_button[face=wall,facing=north] replace
+
+function guris:colouring/effect/yellow

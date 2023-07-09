@@ -109,19 +109,15 @@
         "required": false
       },
       {
-        "id": "#guris:colouring/sand_blocks",
-        "required": false
-      },
-      {
         "id": "#guris:colouring/red_sand_blocks",
         "required": false
       },
       {
-        "id": "#guris:colouring/stone_blocks",
+        "id": "#guris:colouring/mossy_cobblestone_blocks",
         "required": false
       },
       {
-        "id": "#guris:colouring/mossy_stone_blocks",
+        "id": "#guris:colouring/mossy_stone_brick_blocks",
         "required": false
       },
       {

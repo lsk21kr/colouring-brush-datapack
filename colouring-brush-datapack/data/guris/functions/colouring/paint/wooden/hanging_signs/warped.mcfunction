@@ -72,3 +72,5 @@ execute if block ~ ~ ~ #minecraft:ceiling_hanging_signs[waterlogged=true,attache
 execute if block ~ ~ ~ #minecraft:ceiling_hanging_signs[waterlogged=true,attached=true,rotation=15] run setblock ~ ~ ~ minecraft:warped_hanging_sign[waterlogged=true,attached=true,rotation=15] replace
 
 function guris:colouring/data/signs_load
+
+function guris:colouring/effect/cyan

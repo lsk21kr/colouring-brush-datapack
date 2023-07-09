@@ -39,3 +39,5 @@ execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,ha
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=west] run setblock ~ ~ ~ minecraft:spruce_trapdoor[waterlogged=true,open=true,half=top,facing=west] replace
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=south] run setblock ~ ~ ~ minecraft:spruce_trapdoor[waterlogged=true,open=true,half=top,facing=south] replace
 execute if block ~ ~ ~ #minecraft:wooden_trapdoors[waterlogged=true,open=true,half=top,facing=north] run setblock ~ ~ ~ minecraft:spruce_trapdoor[waterlogged=true,open=true,half=top,facing=north] replace
+
+function guris:colouring/effect/gray

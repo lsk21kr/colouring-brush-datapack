@@ -24,3 +24,7 @@ execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=south,ha
 
 execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=north,half=bottom] run setblock ~ ~ ~ minecraft:jungle_stairs[waterlogged=true,facing=north,half=bottom] replace
 execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=north,half=top] run setblock ~ ~ ~ minecraft:jungle_stairs[waterlogged=true,facing=north,half=top] replace
+
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

@@ -1,9 +1,9 @@
 # Colouring Brush
-Colouring Brush is a minecraft data pack that lets you give, change, remove the colour of various coloured blocks using brush and dyes.
+With brush and dyes, you can give, change, remove the colour of various coloured blocks: glass, wool, shulker box, terracotta, even planks. you name it!
 
 ## Dev Status
-* **In Progress**🟨: Implementing features. Not working properly.
-* **Version**: v0.6
+* 🟦 **Active**: Actively developing. Working properly.
+* **Version**: v1.0
 
 ## Compatibility
 * 1.20.x
@@ -11,7 +11,7 @@ Colouring Brush is a minecraft data pack that lets you give, change, remove the 
 
 ## Features
 ### Colouring decoloured blocks
-Hold a brush in mainhand and dyes in offhand (also opposite when both-handed mode) and use the brush on glasses, terracotta, and more. You can colour following blocks.
+Hold a brush and dyes in both hands and use the brush on glasses, terracotta, and more. You can colour following blocks.
 * Candles, candle cakes
 * Glasses, glass panes
 * Shulker boxes
@@ -40,7 +40,7 @@ Same mechanism as above. But cannot recolour in lime, green, light blue, blue, a
 * Buttons
 * Signs, wall signs, hanging signs, and wall hanging signs
 
-### Colouring sand into red sand (to be implemented)
+### Colouring sand into red sand
 Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-related blocks. You can also dye chiselled sandstone depending on the settings.
 * Sand
 * Sandstones
@@ -54,8 +54,8 @@ Hold orange dyes in mainhand, a brush in offhand and use the brush on sand-relat
 * Cut sandstone slabs
 * Chiselled sandstone (*optional: off)
 
-### Colouring cobblestones and stonebricks into mossy variants (to be implemented)
-Hold green dyes in mainhand, a brush in offhand and use the brush on sand-related blocks.
+### Colouring cobblestones and stonebricks into mossy variants
+Hold green dyes in mainhand, a brush in offhand and use the brush on related blocks.
 * Cobblestone
 * Cobblestone stairs
 * Cobblestone slabs
@@ -66,7 +66,7 @@ Hold green dyes in mainhand, a brush in offhand and use the brush on sand-relate
 * Stone brick walls
 
 ### Decolouring blocks
-Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. Be careful as you cannot use offhand even when in both-handed mode.
+Hold a brush in mainhand, water bottle or water bucket in offhand, and use the brush on following blocks. **Be careful as you cannot use brush in offhand in this case.**
 * Candles, candle cakes
 * Cobblestone-related blocks
 * Glasses, glass panes
@@ -75,9 +75,8 @@ Hold a brush in mainhand, water bottle or water bucket in offhand, and use the b
 * Stone-brick-related blocks
 * Terracotta
 
-### Balancing Options (to be implemented)
-Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:colouring/settings to evoke menu)
-* Both-handed mode (on)
+### Balancing Options
+Use commands or click the menu on chat to toggle the options for the following features for balance purposes. In parentheses are default options. (Use /function guris:colouring/settings to evoke the menu)
 * Consume dye (on)
 * Consume water bottle (on)
 * Consume water bucket (off)
@@ -91,12 +90,14 @@ Use commands or click the menu on chat to toggle the options for the following f
 
 ## Planned Features (Soon™)
 * Other stone blocks, stairs, slabs, etc (concerning balances and plausibility)
+* Automatic mainhand-offhand swapper when using water bottle and bucket
 
 ## References
 * [PuckiSilver's Multitool](https://www.planetminecraft.com/data-pack/multitool-every-tool-in-one-item/) data pack for targeted block ray tracing
-* [Moggla's Timber](https://www.planetminecraft.com/data-pack/timber-datapack/) data pack for settings menu design
+* [Moggla's Timber](https://www.planetminecraft.com/data-pack/timber-datapack/) data pack for settings menu design, item damaging
 
 ## Version history
 * v0.5: PoC release for recolouring/decolouring of basic coloured block
 * v0.5.1: glass panes are now normally redyed
 * v0.6: support for wooden blocks added
+* v1.0: release version

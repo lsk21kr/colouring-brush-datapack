@@ -13,3 +13,6 @@ execute if block ~ ~ ~ #minecraft:wall_signs[waterlogged=true,facing=south] run 
 execute if block ~ ~ ~ #minecraft:wall_signs[waterlogged=true,facing=north] run setblock ~ ~ ~ minecraft:jungle_wall_sign[waterlogged=true,facing=north] replace
 
 function guris:colouring/data/signs_load
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

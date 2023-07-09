@@ -37,3 +37,5 @@ execute if block ~ ~ ~ #minecraft:standing_signs[waterlogged=true,rotation=14] r
 execute if block ~ ~ ~ #minecraft:standing_signs[waterlogged=true,rotation=15] run setblock ~ ~ ~ minecraft:crimson_sign[waterlogged=true,rotation=15] replace
 
 function guris:colouring/data/signs_load
+
+function guris:colouring/effect/magenta

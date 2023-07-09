@@ -8,3 +8,5 @@ execute if block ~ ~ ~ #minecraft:beds[occupied=false,facing=east,part=head] run
 execute if block ~ ~ ~ #minecraft:beds[occupied=false,facing=west,part=head] run function guris:colouring/paint/coloured/beds/purple/west_head
 execute if block ~ ~ ~ #minecraft:beds[occupied=false,facing=south,part=head] run function guris:colouring/paint/coloured/beds/purple/south_head
 execute if block ~ ~ ~ #minecraft:beds[occupied=false,facing=north,part=head] run function guris:colouring/paint/coloured/beds/purple/north_head
+
+function guris:colouring/effect/purple

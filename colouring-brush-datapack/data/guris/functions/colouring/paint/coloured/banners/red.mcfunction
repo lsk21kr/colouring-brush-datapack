@@ -1,5 +1,5 @@
 # context: as player, at colored block
-function guris:colouring/data/banners_save
+execute if score option_maintain_banner guris.colouring matches 1 run function guris:colouring/data/banners_save
 
 execute if block ~ ~ ~ #guris:colouring/blocks/banners[rotation=0] run setblock ~ ~ ~ minecraft:red_banner[rotation=0] replace
 execute if block ~ ~ ~ #guris:colouring/blocks/banners[rotation=1] run setblock ~ ~ ~ minecraft:red_banner[rotation=1] replace
@@ -18,4 +18,6 @@ execute if block ~ ~ ~ #guris:colouring/blocks/banners[rotation=13] run setblock
 execute if block ~ ~ ~ #guris:colouring/blocks/banners[rotation=14] run setblock ~ ~ ~ minecraft:red_banner[rotation=14] replace
 execute if block ~ ~ ~ #guris:colouring/blocks/banners[rotation=15] run setblock ~ ~ ~ minecraft:red_banner[rotation=15] replace
 
-function guris:colouring/data/banners_load
+execute if score option_maintain_banner guris.colouring matches 1 run function guris:colouring/data/banners_load
+
+function guris:colouring/effect/red

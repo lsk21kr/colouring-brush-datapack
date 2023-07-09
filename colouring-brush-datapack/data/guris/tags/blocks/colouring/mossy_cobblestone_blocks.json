@@ -15,22 +15,6 @@
       {
         "id": "minecraft:mossy_cobblestone_wall",
         "required": false
-      },
-      {
-        "id": "minecraft:mossy_stone_bricks",
-        "required": false
-      },
-      {
-        "id": "minecraft:mossy_stone_brick_stairs",
-        "required": false
-      },
-      {
-        "id": "minecraft:mossy_stone_brick_slab",
-        "required": false
-      },
-      {
-        "id": "minecraft:mossy_stone_brick_wall",
-        "required": false
       }
     ]
   }

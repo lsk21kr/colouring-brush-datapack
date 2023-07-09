@@ -19,3 +19,5 @@ execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=eas
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=west] run function guris:colouring/paint/wooden/doors/bamboo/upper_right_west
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=south] run function guris:colouring/paint/wooden/doors/bamboo/upper_right_south
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=north] run function guris:colouring/paint/wooden/doors/bamboo/upper_right_north
+
+function guris:colouring/effect/yellow

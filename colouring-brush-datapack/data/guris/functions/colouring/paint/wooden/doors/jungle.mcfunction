@@ -19,3 +19,7 @@ execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=eas
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=west] run function guris:colouring/paint/wooden/doors/jungle/upper_right_west
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=south] run function guris:colouring/paint/wooden/doors/jungle/upper_right_south
 execute if block ~ ~ ~ #minecraft:wooden_doors[half=upper,hinge=right,facing=north] run function guris:colouring/paint/wooden/doors/jungle/upper_right_north
+
+
+execute unless score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/brown
+execute if score option_green_jungle guris.colouring matches 1 run function guris:colouring/effect/green

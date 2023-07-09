@@ -48,6 +48,6 @@
     }
   },
   "rewards": {
-    "function": "guris:colouring/paint/apply"
+    "function": "guris:colouring/paint/use_brush"
   }
 }

@@ -9,3 +9,5 @@ execute if block ~ ~ ~ #minecraft:fence_gates[open=true,facing=east] run setbloc
 execute if block ~ ~ ~ #minecraft:fence_gates[open=true,facing=west] run setblock ~ ~ ~ minecraft:acacia_fence_gate[open=true,facing=west] replace
 execute if block ~ ~ ~ #minecraft:fence_gates[open=true,facing=south] run setblock ~ ~ ~ minecraft:acacia_fence_gate[open=true,facing=south] replace
 execute if block ~ ~ ~ #minecraft:fence_gates[open=true,facing=north] run setblock ~ ~ ~ minecraft:acacia_fence_gate[open=true,facing=north] replace
+
+function guris:colouring/effect/red

@@ -39,10 +39,6 @@
       {
         "id": "minecraft:cut_sandstone_slab",
         "required": false
-      },
-      {
-        "id": "minecraft:chiseled_sandstone",
-        "required": false
       }
     ]
   }

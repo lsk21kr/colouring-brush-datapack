@@ -20,3 +20,5 @@ execute if block ~ ~ ~ #minecraft:candles[waterlogged=true,lit=true,candles=1] r
 execute if block ~ ~ ~ #minecraft:candles[waterlogged=true,lit=true,candles=2] run setblock ~ ~ ~ minecraft:black_candle[waterlogged=true,lit=true,candles=2] replace
 execute if block ~ ~ ~ #minecraft:candles[waterlogged=true,lit=true,candles=3] run setblock ~ ~ ~ minecraft:black_candle[waterlogged=true,lit=true,candles=3] replace
 execute if block ~ ~ ~ #minecraft:candles[waterlogged=true,lit=true,candles=4] run setblock ~ ~ ~ minecraft:black_candle[waterlogged=true,lit=true,candles=4] replace
+
+function guris:colouring/effect/black

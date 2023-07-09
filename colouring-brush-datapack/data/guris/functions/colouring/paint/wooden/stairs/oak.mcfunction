@@ -24,3 +24,6 @@ execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=south,ha
 
 execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=north,half=bottom] run setblock ~ ~ ~ minecraft:oak_stairs[waterlogged=true,facing=north,half=bottom] replace
 execute if block ~ ~ ~ #minecraft:wooden_stairs[waterlogged=true,facing=north,half=top] run setblock ~ ~ ~ minecraft:oak_stairs[waterlogged=true,facing=north,half=top] replace
+
+
+function guris:colouring/effect/light_gray

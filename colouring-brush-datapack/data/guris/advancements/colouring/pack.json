@@ -1,13 +1,13 @@
 {
     "display": {
-        "title": "Colouring Brush v0.6",
+        "title": "Colouring Brush v1.0",
         "description": 
             [
                 {
                     "text": "• Give, change, remove the colour of various coloured blocks using brush and dyes."
                 },
                 {
-                    "text": "\n\n• Hold a brush in mainhand, dyes/water in offhand and use the brush on wools, glasses, and even planks.",
+                    "text": "\n\n• Hold a brush and dyes/water in both hand and use the brush on wools, glasses, and even planks.",
                     "color": "yellow"
                 },
                 {
