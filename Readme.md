@@ -89,7 +89,19 @@ Use commands or click the menu on chat to toggle the options for the following f
 * Wooden trapdoors (off)
 
 ## Planned Features (Soon™)
-* Other stone blocks, stairs, slabs, etc (concerning balances and plausibility)
+* Other stone blocks, stairs, slabs, etc (convertible within the same groups)
+  * Cobblestone variants: cobblestone (washed), mossy cobblestone (green), prismarine (cyan), cobbled deepslate (gray), and blackstone (black)
+  * Stone brick variants: stone bricks (washed) mossy stonebricks (green), mud bricks, deepslate bricks (gray), polished blackstone bricks (black), and end stone bricks (yellow)
+  * Clay brick variants: bricks (washed), nether bricks (purple), red nether bricks (red), deepslate tiles (gray)
+  * Polished stone variants: polished granite (red), polished diorite (white), polished andesite (light gray), polished deepslate (gray), and polished blackstone (black)
+  * Alternate stone variants: granite (red), diorite (white), and andesite (light gray)
+* Cracking bricks with gunpowder (in parentheses are for reversion): stone bricks (light gray), deepslate bricks (gray), deepslate tiles (gray), polished blackstone bricks (black), and nether bricks (purple)
+* Gilding blackstone with raw gold
+* Polishing stones with beeswax (gunpowder for reversion): granite, diorite, andesite, deepslate, blackstone, and basalt
+* Tinting glasses with two amethyst shards (gunpowder for reversion): only available on normal glasses
+* Make piston sticky with slimeball: piston (washed), sticky piston (slimeball)
+* Colouring stripped woods/hyphae/logs/stems
+* Optional bamboo blocks/planks colouring (because they have different crafting values with other logs/planks)
 * Automatic mainhand-offhand swapper when using water bottle and bucket
 
 ## References
